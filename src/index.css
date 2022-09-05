@@ -21,3 +21,13 @@
 .App-intro {
   font-size: large;
 }
+
+.container {
+  padding: 1rem;
+  width: stretch;
+  height: auto;
+  background: #515da2;
+  opacity: 0.8;
+}
+
+

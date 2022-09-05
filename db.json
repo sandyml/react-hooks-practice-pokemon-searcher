@@ -1340,6 +1340,24 @@
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/150.png",
         "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/150.png"
       }
+    },
+    {
+      "id": 161,
+      "name": "TEST:SandraYun",
+      "hp": 1000,
+      "sprites": {
+        "front": "nourl",
+        "back": ""
+      }
+    },
+    {
+      "id": 162,
+      "name": "TEST:NEWSNORLAX2",
+      "hp": 0,
+      "sprites": {
+        "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/143.png",
+        "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/143.png"
+      }
     }
   ]
 }
